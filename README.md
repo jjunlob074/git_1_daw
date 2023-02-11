@@ -92,6 +92,16 @@ git push
   git commit -m "añadido equipo.md"<br>
   git push
 
+## COMANDOS UTILIZADOS EN EL FORK
+
+git clone/// clonar el repositorio creado<br>
+git checkout -b <nombre de la rama> // crea una rama y se mueve a la rama creada.<br>
+nano <nombre del archivo><br>
+git add <archivo><br>
+git commit -m "comentario"<br>
+git push para subir los cambios
+
+
 
 
 
