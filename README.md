@@ -74,7 +74,7 @@ git push
   git commit -am "conflicto resuelto en 1.txt"<br>
   git push
 
-## CREANDO TAG V0.2, ELIMINANO LA RAMA Y ENSEÑANDO LOS CAMBIOS
+## CREANDO TAG V0.2, ELIMINANDO LA RAMA Y ENSEÑANDO LOS CAMBIOS
 
    git tag v0.2<br>
    git checkout v0.2/// subir lo que quedaba en la rama al repositorio local, con -D fuerzas a borrar la rama aunque tengas cambios pendientes.<br>
