@@ -38,7 +38,7 @@ git push
  git commit -am "añadido 1.txt y el tag v.0.1"<br>
  git push 
 
-##COMANDOS REALIZACIÓN TABLA
+## COMANDOS REALIZACIÓN TABLA
 
 nano README.md<br>
 git commit -am "añadida tabla compañeros"<br>
