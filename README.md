@@ -3,6 +3,7 @@
 ### otros comandos de interes
 
 git status<br>
+git pull<br>
 git branch
 
 ## ESTO ES UN REPOSITORIO PARA LA TAREA 3 DE ENTORNOS DE DESARROLLO
